@@ -1,1 +1,6 @@
-
+.container {border: solid 2px;
+width: 600px;
+margin-left: auto;
+margin-right: auto;
+font-family: 'open sans'
+} 
