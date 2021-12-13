@@ -69,3 +69,26 @@ margin-bottom: 10px;
 .newsletter {
     position: relative;
 }
+
+#questionmark {
+    box-shadow: 0 0 4px 4px gray;
+    background-color: #3cb878;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    width: 100px;
+    height: 100px;
+    border-radius :50% ;
+    font-size: 70px;
+    text-align: center;
+    color: white;
+}
+.card {
+    margin-bottom: 30px;
+    box-shadow: 20px 0px 15px 0px gray;
+    background-color: #3cb878;
+    text-align: center;
+    color: white;
+    width: 180px;
+    padding: 20px;
+}
